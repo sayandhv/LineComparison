@@ -82,8 +82,7 @@ public class Linecomparison {
 	}
 
 	public static void main(String[] args) {
-		length();
-		// TODO Auto-generated method stub
+		length();	
 		Linecomparison ls = new Linecomparison();
 		ls.Linescomparison();
 
